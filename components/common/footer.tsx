@@ -11,9 +11,12 @@ export function Footer() {
       <div className="container mx-auto px-6 md:px-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <div className="md:col-span-2">
-            <Link href="/" className="text-2xl font-bold tracking-tighter">
-              <span className="text-primary">FARREL</span>
-              <span className="text-primary opacity-70">.</span>
+            <Link
+              href="https://wa.me/6283892168265?text=Hi%21%20I%20want%20to%20get%20to%20know%20you%20%3A%29"
+              className="text-2xl font-bold tracking-tighter hover:underline"
+            >
+              <span className="text-primary">Eduardus Farrel Tirtawinata</span>
+              <span className="text-primary"> .</span>
             </Link>
             <p className="mt-4 text-muted-foreground max-w-md">
               Designing and developing exceptional digital experiences that are

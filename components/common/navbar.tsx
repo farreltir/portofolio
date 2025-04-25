@@ -43,8 +43,8 @@ export function Navbar() {
           href="/"
           className="text-2xl font-bold tracking-tighter transition-transform hover:scale-105"
         >
-          <span className="text-primary">Farrel</span>
-          <span className="text-primary opacity-70">.</span>
+          <span className="text-primary">Eduardus Farrel Tirtawinata</span>
+          <span className="text-primary"> .</span>
         </Link>
 
         {/* Desktop Navigation */}
