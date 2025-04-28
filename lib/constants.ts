@@ -27,7 +27,7 @@ export const PROJECTS = [
     id: 1,
     title: "Dimsum Andria",
     description:
-      "A beautiful and responsive restaurant website, built with dynamic content and smooth animations.",
+      "A modern and stylish restaurant website, bringing the flavors of authentic dim sum to life through interactive design, stunning visuals, and a fully responsive experience.",
     image: "images/dimsum.png",
     tags: ["Next.js", "TypeScript", "Tailwind CSS"],
     link: "https://dimsum-andria.vercel.app/",
@@ -36,18 +36,18 @@ export const PROJECTS = [
     id: 2,
     title: "Klaska Residence",
     description:
-      "A modern and stylish landing page for an exclusive residential property, designed with immersive visuals and user-friendly navigation.",
+      "A modern and stylish website created for Sinarmas Land, featuring Klaska Residence — an exclusive residential property in Surabaya with immersive visuals and user-friendly navigation throughout.",
     image: "images/klaska.png",
-    tags: ["HTML", "Tailwind CSS", "JavaScript"],
+    tags: ["Next.js", "TypeScript", "Tailwind CSS", "SEO"],
     link: "https://www.klaskaresidence.com/",
   },
   {
     id: 3,
     title: "Grand Wisata Bekasi",
     description:
-      "A vibrant and informative website for Grand Wisata Bekasi, featuring interactive layouts and dynamic content to showcase residential, commercial, and lifestyle offerings.",
+      "An engaging and dynamic website showcasing Grand Wisata Bekasi, a modern residential township developed by Sinar Mas Land, a leading and trusted property developer in Indonesia.",
     image: "images/grand.png",
-    tags: ["React", "Next.js", "Tailwind CSS", "SEO"],
+    tags: ["Next.js", "TypeScript", "Tailwind CSS", "React"],
     link: "https://grandwisatabekasi.com/id/",
   },
 ];
